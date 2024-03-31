@@ -1,0 +1,1 @@
+<img src={{asset('images/Logo2.png')}} class="mocku h-20" height="" alt="logo"/>
